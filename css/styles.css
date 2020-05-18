@@ -1,0 +1,50 @@
+body {
+	background-color: black;
+	width: 100%;
+}
+
+#geheel {
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+.st0 {
+	fill: #DE4F9D;
+}
+
+.st1 {
+	fill: #CE4B33;
+}
+
+.st2 {
+	fill: #F06527;
+}
+
+.st3 {
+	fill: #3DA461;
+}
+
+.st4 {
+	fill: #FEDA10;
+}
+
+.st5 {
+	fill: #BF9F7D;
+}
+
+.st6 {
+	fill: #0D55A6;
+}
+
+.st7 {
+	fill: #A273B1;
+}
+
+.st8 {
+	fill: #EF4330;
+}
+
+.st9 {
+	fill: #FFFFFF;
+}
