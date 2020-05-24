@@ -3,34 +3,42 @@
 	src: url('Riccione-Serial-Regular.ttf') format('truetype');
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 1000px) {
+
+	.slidecontainer {
+		width: 100% !important;
+		margin: auto;
+		padding: 10% !important;
+	}
+
 	.boventekst {
 		width: 100% !important;
-		margin: auto !important;
-		font-size: 0.7rem !important;
+		margin-left: 5% !important;
+		font-size: 3rem !important;
 	}
 
 	.sterren {
 		position: absolute;
 		margin: auto;
 		top: 40%;
+		width: 100%;
 	}
 
 	.sterren img {
-		width: 30vw !important;
-		margin-right: -26vw !important;
+		width: 35vw !important;
+		margin-right: -28vw !important;
 	}
 
 	.st0 {
-		margin-left: 10% !important;
+		margin-left: 8% !important;
 	}
 
 	.ondertekst {
 		position: absolute;
 		bottom: 0 !important;
 		width: 100% !important;
-		font-size: 1rem !important;
-		margin: auto !important;
+		font-size: 4rem !important;
+		margin-left: 5% !important;
 	}
 }
 
