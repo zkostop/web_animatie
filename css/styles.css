@@ -3,7 +3,7 @@
 	src: url('Riccione-Serial-Regular.ttf') format('truetype');
 }
 
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 880px) {
 
 	.slidecontainer {
 		position: absolute !important;
@@ -15,25 +15,24 @@
 
 	.boventekst {
 		width: 100% !important;
+		margin: auto !important;
 		margin-left: 5% !important;
-		font-size: 3rem !important;
+		font-size: 1.5rem !important;
 	}
 
 	.ster {
-		width: 25vw !important;
-		margin-right: -12rem !important;
+		width: 20vw !important;
+		margin-right: -15vw !important;
 	}
 
-	.st0 {
-		margin-left: 17% !important;
-	}
+	.st0 {}
 
 	.ondertekst {
 		position: absolute;
 		top: auto !important;
 		bottom: 0 !important;
 		width: 100% !important;
-		font-size: 4rem !important;
+		font-size: 2rem !important;
 		margin-left: 5% !important;
 		left: 0 !important;
 
@@ -102,7 +101,7 @@ body {
 	font-family: 'Riccione-Serial-Regular';
 	color: white;
 	z-index: 2;
-	font-size: 3.5vw;
+	font-size: 2.5vw;
 	line-height: 1vh;
 	padding: 10px;
 	position: absolute;
@@ -110,7 +109,7 @@ body {
 	left: auto;
 	top: auto;
 	bottom: 0;
-	margin-right: 5%;
+	/*	margin-right: 5%;*/
 	width: 30%;
 
 	transition: 0.5s ease;
@@ -130,18 +129,18 @@ body {
 	align-items: center;
 	margin: auto;
 	display: flex;
-	flex-wrap: wrap;
 }
 
 .ster {
 	width: 18vw;
 	z-index: 999;
 	display: inline-block;
-	margin-right: -14rem;
+	flex-wrap: wrap;
+	margin-right: -12vw;
 }
 
 .st0 {
-	margin-left: 30%;
+	margin-left: 15%;
 }
 
 /* Bron: https://codepen.io/WebSonick/pen/vjmgu */
