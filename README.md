@@ -10,7 +10,7 @@ De poster is een advertentie voor de American Bicentennial Theater. Dit was een 
 
 De poster is door Thomas Geismar gemaakt, een Amerikaanse grafische ontwerper. Geismar staat bekend om zijn strakke logo's voor bekende bedrijven. Hier een link naar zijn website waar veel van zijn werk is terug te vinden. In de jaren '70 heeft Geismar veel voor Xerox ontworpen en is mede hierdoor ook bekender door geworden. 
 
-![Poster](screenshots/29080_or.jpg)
+![Poster](screenshots/29080_or.jpg){:width='200px'}
   
   ## Inspiratie voor interactie & animatie
   
@@ -22,6 +22,8 @@ De poster is door Thomas Geismar gemaakt, een Amerikaanse grafische ontwerper. G
   De achtergrond: deze van kleur laten veranderen, animatie aan toevoegen
   
   Het eerste wat ik besloot te doen was het vast leggen van de poster in code. Dit leek mij het handigste om eerst te doen, dan kon ik hier later om heen de interacties en animaties toe voegen. 
+  
+  ![Poster](screenshots/basic-screen.png)
   
   Nadat ik dit had gedaan besloot ik met de sterren te beginnen, ik wilde deze graag met behulp van een slider, groter en kleiner laten worden. Na dit gecodeerd te hebben, kreeg ik het idee om de sterren te verplaatsen op te pagina. De gebruiker kan zo alle sterren willekeurig neerzetten op de pagina. 
   Terwijl ik dit probeerde te installeren, stuitte ik op een probleem. De sterren wilden niet in hun formaat blijven zodra ik de sterren wilde verplaatsen. Na hulp te hebben gezocht en zelf veel research te hebben gedaan op het web, besloot ik de slider functie te veranderen. Deze wilde ik nu gebruiken voor het veranderen van de achtergrondkleuren. Ik koos voor het orgineel (zwart), wanneer je naar links slide een nostalgische kleur geel en bruin die goed bij de jaren '70 passen en aan de rechterkant van de slider een moderne blauwe kleur. 
