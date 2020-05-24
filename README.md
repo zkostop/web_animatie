@@ -10,6 +10,7 @@ De poster is een advertentie voor de American Bicentennial Theater. Dit was een 
 
 De poster is door Thomas Geismar gemaakt, een Amerikaanse grafische ontwerper. Geismar staat bekend om zijn strakke logo's voor bekende bedrijven. Hier een link naar zijn website waar veel van zijn werk is terug te vinden. In de jaren '70 heeft Geismar veel voor Xerox ontworpen en is mede hierdoor ook bekender door geworden. 
 
+
 <img src="screenshots/29080_or.jpg" width="400px" />
   
   ## Inspiratie voor interactie & animatie
@@ -23,9 +24,24 @@ De poster is door Thomas Geismar gemaakt, een Amerikaanse grafische ontwerper. G
   
   Het eerste wat ik besloot te doen was het vast leggen van de poster in code. Dit leek mij het handigste om eerst te doen, dan kon ik hier later om heen de interacties en animaties toe voegen. 
   
-  ![Vormgeving](screenshots/basic-screen.png)Basis
+  ![Vormgeving](screenshots/basic-screen.png)Basis vormgeving zonder interacties
   
   Nadat ik dit had gedaan besloot ik met de sterren te beginnen, ik wilde deze graag met behulp van een slider, groter en kleiner laten worden. Na dit gecodeerd te hebben, kreeg ik het idee om de sterren te verplaatsen op te pagina. De gebruiker kan zo alle sterren willekeurig neerzetten op de pagina. 
   Terwijl ik dit probeerde te installeren, stuitte ik op een probleem. De sterren wilden niet in hun formaat blijven zodra ik de sterren wilde verplaatsen. Na hulp te hebben gezocht en zelf veel research te hebben gedaan op het web, besloot ik de slider functie te veranderen. Deze wilde ik nu gebruiken voor het veranderen van de achtergrondkleuren. Ik koos voor het orgineel (zwart), wanneer je naar links slide een nostalgische kleur geel en bruin die goed bij de jaren '70 passen en aan de rechterkant van de slider een moderne blauwe kleur. 
   
-  ![Vormgeving](screenshots/basic-screen.png)
+  ![Vormgeving](screenshots/geel.png) Gele variant
+  
+   ![Vormgeving](screenshots/blauw.png) Blauwe variant
+   
+   
+   Na het aanpassen van deze interacties wilde ik iets toevoegen aan het zwarte beginscherm van de webpagina. De sterren gaven mij het idee om er een flikkerende sterrenhemel achter te zetten. Dit is naar mijn smaak subtiel en geeft het net een ander gevoel dan bij de originele poster. De flikkerende sterren passen dan ook goed bij de rest van de vormgeving. 
+   
+ 
+   ![Vormgeving](screenshots/basic-screen.png) Flikkerende sterren 
+   
+   Nadat ik de flikkerende sterren erin had verwerkt, besloot ik dat de sterren over de hele pagina heen gesleept kunnen worden zodat je je eigen kleurrijke sterrenhemel kunt creeëren. Dit vergte heel wat van mijn code kennis en ik heb hier dan ook erg lang over gedaan en veel moeite mee gehad. Uiteindelijk werkte het zoals ik dat wilde. 
+   
+   ![Vormgeving](screenshots/verplaatst.png) De sterren staan verdeeld over de gehele pagina
+   
+   
+ 
