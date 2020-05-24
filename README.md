@@ -10,7 +10,7 @@ De poster is een advertentie voor de American Bicentennial Theater. Dit was een 
 
 De poster is door Thomas Geismar gemaakt, een Amerikaanse grafische ontwerper. Geismar staat bekend om zijn strakke logo's voor bekende bedrijven. Hier een link naar zijn website waar veel van zijn werk is terug te vinden. In de jaren '70 heeft Geismar veel voor Xerox ontworpen en is mede hierdoor ook bekender door geworden. 
 
-<img src="screenshots/29080_or.jpg" width="500px" />
+<img src="screenshots/29080_or.jpg" width="400px" />
   
   ## Inspiratie voor interactie & animatie
   
