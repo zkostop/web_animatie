@@ -50,10 +50,10 @@ De poster is door Thomas Geismar gemaakt, een Amerikaanse grafische ontwerper. G
    Daarna kwam ik bij mijn laatste event, een hover. De hover die ik besloot te maken was het inzoomen van de tekst waar een led-light achter verschijnt, dat past goed bij het thema space. 
    
    
-   ![Vormgeving](screenshots/hover boven.png) Hover boven tekst 
+   ![Vormgeving](screenshots/hover-boven.png) Hover boven tekst 
    
    
-   ![Vormgeving](screenshots/hover beneden.png) Hover beneden tekst 
+   ![Vormgeving](screenshots/hover-beneden.png) Hover beneden tekst 
    
    
    ## Belangrijkste CSS-elementen
