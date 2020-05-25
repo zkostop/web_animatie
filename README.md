@@ -68,7 +68,7 @@ De poster is door Thomas Geismar gemaakt, een Amerikaanse grafische ontwerper. G
    
    ## Wat heb ik hier van geleerd?
    
-   Ik heb heel veel van dit vak geleerd. Coderen is absoluut niet mijn sterkste punt en ik ben erg blij met hoever ik ben gekomen. Ik heb geleerd dat CSS zo veel kan doen als je er meer over leest en toe past. Het soort van animeren met CSS was echt een wereld die voor mij open ging en wat ik zeker meeneem naar mijn volgende jaar.
+   Ik heb heel veel van dit vak geleerd. Coderen is absoluut niet mijn sterkste punt en ik ben erg blij met hoever ik ben gekomen. Ik heb geleerd dat CSS zo veel kan doen als je er meer over leest en toe past. Het converteren van een SVG naar CSS was ook iets wat ik niet wist en nu wel. Het soort van animeren met CSS was echt een wereld die voor mij open ging en wat ik zeker meeneem naar mijn volgende jaar.
   
    
    
