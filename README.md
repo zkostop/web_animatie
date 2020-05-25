@@ -15,7 +15,7 @@ De poster is door Thomas Geismar gemaakt, een Amerikaanse grafische ontwerper. G
   
   ## Inspiratie voor interactie & animatie
   
-  Wanneer ik aan Amerika en vrijheid denk zie ik direct de Amerikaanse vlag voor mij. De vlag heeft ook sterren en het draait hier ook om vrijheid en het vieren hiervan. 
+  Wanneer ik aan Amerika en vrijheid denk zie ik direct de Amerikaanse vlag voor mij. De vlag heeft ook sterren en het draait hier ook om vrijheid en het vieren hiervan. Ook dacht ik aan de plaats waar je de meeste vrijheid hebt en er geen regels gelden: het heelal, outerspace. 
   De sterren op de poster gaven mij direct het idee om hier iets mee te doen. Dit gaf mij het idee om de poster op te delen in elementen zodat het overzichtelijker voor mij werd. 
   
   De tekst: deze laten bewegen, groter of kleiner laten maken
@@ -64,6 +64,8 @@ De poster is door Thomas Geismar gemaakt, een Amerikaanse grafische ontwerper. G
    *  Jump
    *  Transition
    *  Display-flex
+   
+   Ik heb alle events gebruikt die vereist waren om de opdracht te voldoen. 
    
    
    ## Wat heb ik hier van geleerd?
