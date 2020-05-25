@@ -26,23 +26,23 @@ De poster is door Thomas Geismar gemaakt, een Amerikaanse grafische ontwerper. G
   
   Het eerste wat ik besloot te doen was het vast leggen van de poster in code. Dit leek mij het handigste om eerst te doen, dan kon ik hier later om heen de interacties en animaties toe voegen. 
   
-  ![Vormgeving](screenshots/basic-screen.png)Basis vormgeving zonder interacties
+  ![Vormgeving](screenshots/basic-screen.png)*Basis vormgeving zonder interacties*
   
   Nadat ik dit had gedaan besloot ik met de sterren te beginnen, ik wilde deze graag met behulp van een slider, groter en kleiner laten worden. Na dit gecodeerd te hebben, kreeg ik het idee om de sterren te verplaatsen op te pagina. De gebruiker kan zo alle sterren willekeurig neerzetten op de pagina. 
   Daarom besloot ik dat de sterren over de hele pagina heen gesleept kunnen worden zodat je je eigen kleurrijke sterrenhemel kunt creeëren. Dit vergte heel wat van mijn code kennis en ik heb hier dan ook erg lang over gedaan en veel moeite mee gehad. Uiteindelijk werkte het zoals ik dat wilde. 
    
-   ![Vormgeving](screenshots/verplaatst.png) De sterren staan verdeeld over de gehele pagina
+   ![Vormgeving](screenshots/verplaatst.png) *De sterren staan verdeeld over de gehele pagina*
   
   Terwijl ik dit probeerde te installeren, stuitte ik op een probleem. De sterren wilden niet in hun formaat blijven zodra ik de sterren wilde verplaatsen. Na hulp te hebben gezocht en zelf veel research te hebben gedaan op het web, besloot ik de slider functie te veranderen. Deze wilde ik nu gebruiken voor het veranderen van de achtergrondkleuren. Ik koos voor het orgineel (zwart), wanneer je naar links slide een nostalgische kleur geel en bruin die goed bij de jaren '70 passen en aan de rechterkant van de slider een moderne blauwe kleur. 
   
-  ![Vormgeving](screenshots/geel.png) Gele variant
+  ![Vormgeving](screenshots/geel.png) *Gele variant*
   
-   ![Vormgeving](screenshots/blauw.png) Blauwe variant
+   ![Vormgeving](screenshots/blauw.png) *Blauwe variant*
    
    
    Na het aanpassen van deze interacties wilde ik iets toevoegen aan het zwarte beginscherm van de webpagina. De sterren gaven mij het idee om er een flikkerende sterrenhemel achter te zetten. Dit is naar mijn smaak subtiel en geeft het net een ander gevoel dan bij de originele poster. De flikkerende sterren passen dan ook goed bij de rest van de vormgeving. 
    
-   ![Vormgeving](screenshots/basic-screen.png) Flikkerende sterren 
+   ![Vormgeving](screenshots/basic-screen.png) *Flikkerende sterren* 
    
    
    Door de bewegende sterren besloot ik een keyboard-event toe te voegen die de sterren laat bewegen op hun plek. Dit geeft het effect dat de sterren zweven op hun plek. 
@@ -50,10 +50,10 @@ De poster is door Thomas Geismar gemaakt, een Amerikaanse grafische ontwerper. G
    Daarna kwam ik bij mijn laatste event, een hover. De hover die ik besloot te maken was het inzoomen van de tekst waar een led-light achter verschijnt, dat past goed bij het thema space. 
    
    
-   ![Vormgeving](screenshots/hover-boven.png) Hover boven tekst 
+   ![Vormgeving](screenshots/hover-boven.png) *Hover boven tekst* 
    
    
-   ![Vormgeving](screenshots/hover-beneden.png) Hover beneden tekst 
+   ![Vormgeving](screenshots/hover-beneden.png) *Hover beneden tekst* 
    
    
    ## Belangrijkste CSS-elementen
